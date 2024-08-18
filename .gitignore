@@ -1,0 +1,6 @@
+/notes/*.pdf
+/notes/*.png
+/notes/mol*.svg
+/notes/dur*.svg
+/out/
+/archive/
